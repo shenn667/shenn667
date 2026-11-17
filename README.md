@@ -15,6 +15,9 @@ PyPI 0.3.0. 98.7% token reduction. 88 tests passing.
 **3. [cited-rag](https://github.com/shenn667/cited-rag)** — Offline hybrid RAG (BM25 + TF-IDF + RRF) with citations.
 Recall@5 = 1.00, MRR = 0.93. 61 tests passing. No external API required.
 
+**4. [claude-verified-agent](https://github.com/shenn667/claude-verified-agent)** — End-to-end showcase: verified agent loop (context → cited answer → PII/injection gate).
+14 tests + 3 eval gates green in CI. Offline demo, no API key required.
+
 ## Contact
 
 Open to AI infrastructure and tooling roles. Reach via GitHub.
