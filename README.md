@@ -13,10 +13,10 @@ PyPI 0.3.2. 92 tests passing. 98.7% token reduction. Listed on the [official MCP
 PyPI 0.1.0. 146 tests passing. 100% check coverage. Blocks regressions before merge.
 
 **3. [cited-rag](https://github.com/shenn667/cited-rag)** — Offline hybrid RAG (BM25 + TF-IDF + RRF) with citations.
-PyPI 0.1.0. 61 tests passing. Recall@5 = 1.00, MRR = 0.93. Refusal 12/12. No external API required.
+PyPI 0.1.1. 70 tests passing. Recall@5 = 1.00, MRR = 0.93. Refusal 12/12. No external API required.
 
 **4. [claude-verified-agent](https://github.com/shenn667/claude-verified-agent)** — End-to-end showcase: verified agent loop (context → cited answer → PII/injection gate).
-14 contract tests + 3 CI gates green in CI. Offline demo, no API key required.
+48 contract & banking tests + 4 CI gates green in CI. Offline demo, no API key required.
 
 ## Benchmarks, Registry & Writing
 
